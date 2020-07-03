@@ -19,10 +19,10 @@ The current method we intend to use is as follows:-<br>
 
 # Results
 
-# 3d plot of x,y vs time
+# a) 3d plot of x,y vs time
 ![](media/Figure_1.png)<br>
 
-# Temporal clustered results are as follows ( 4 truck trips were requested in this case )
+# b) Temporal clustered results are as follows ( 4 truck trips were requested in this case )
 ![](media/3.png)<br>
 ![](media/8.png)<br>
 ![](media/14.png)<br>
