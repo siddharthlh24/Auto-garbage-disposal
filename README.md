@@ -10,3 +10,5 @@ The current method we intend to use is as follows:-<br>
 2.	Do a time analysis of the data.<br>
 3.	Apply a K Means classifier to group data in to N distinct temporal groups where N is the number of trips a truck can make in a day.<br>
 4.	Accordingly, schedule timings when garbage truck should collect garbage and locations where they will be collected from.<br>
+
+# File descriptions
