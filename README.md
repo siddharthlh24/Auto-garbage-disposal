@@ -18,3 +18,12 @@ The current method we intend to use is as follows:-<br>
 **path optimization.py** - Plots cluster paths accoding to output from **clustering.py** . ( **Please note:-** (0,0) is assumed to be location of the main landfill/dump .)<br>
 
 # Results
+
+**3d plot of x,y vs time **
+![](media/Figure_1.png)<br>
+
+**Temporal clustered results are as follows ( 4 truck trips were requested in this case )**
+![](media/3.png)<br>
+![](media/8.png)<br>
+![](media/14.png)<br>
+![](media/21.png)<br>
