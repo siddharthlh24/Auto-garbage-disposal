@@ -3,6 +3,8 @@
 # Abstract
 Garbage collection continues to be a large problem in towns and metropolitan areas. We intend to utilize the Internet of Things to come up with a solution to this problem. We are proposing a method to collect garbage at the most optimum times of the day so as to make sure excess garbage is not left in the open any longer than necessary or dumped in the streets instead. 
 
+![](media/Figure_1.png)<br>
+
 # Proposed technique
 The current method we intend to use is as follows:-<br>
 1.	Use a smart dustbin to send garbage level to the cloud.<br>
