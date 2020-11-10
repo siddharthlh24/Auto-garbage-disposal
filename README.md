@@ -14,9 +14,9 @@ The current method we intend to use is as follows:-<br>
 
 # File descriptions
 
-**doctored_2_visual_only.csv** - contains information of posinsion of garbage bins, serial number and when they got filled in a day.<br>
+**doctored_2_visual_only.csv** - contains information of position of garbage bins, serial number and when they got filled in a day.<br>
 **doctored_2.csv** - Same as previous except, it is used in code.<br>
-**clustering.py** - provides a K means temporal clustering to cluster data in the **doctored_2.csv**. The number of clusters correspond to number of trips a truck ca make in a day.<br>
+**clustering.py** - provides a K means temporal clustering to cluster data in the **doctored_2.csv**. The number of clusters correspond to number of trips a truck can make in a day.<br>
 **path optimization.py** - Plots cluster paths accoding to output from **clustering.py** . ( **Please note:-** (0,0) is assumed to be location of the main landfill/dump .)<br>
 
 # Results
