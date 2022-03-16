@@ -9,7 +9,7 @@ Garbage collection continues to be a large problem in towns and metropolitan are
 The current method we intend to use is as follows:-<br>
 1.	Use a smart dustbin to send garbage level to the cloud.<br>
 2.	Do a time analysis of the data.<br>
-3.	Apply a K Means classifier to group data in to N distinct temporal groups where N is the number of trips a truck can make in a day.<br>
+3.	Apply a K Means classifier to group data in to N distinct temporal groups. Here, N is the number of trips a truck can make in a day.<br>
 4.	Accordingly, schedule timings when garbage truck should collect garbage and locations where they will be collected from.<br>
 
 # File descriptions
